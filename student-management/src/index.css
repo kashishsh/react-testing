@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+  padding: 5%;
+}
+
+.student-list-item {
+  border: solid 1px lightgray;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px;
+  cursor: pointer;
+}
+.summary {
+  text-align: center;
+}
+
+.summary div {
+  border: solid 1px #ccc;
+  width: 100px;
+  height: 100px;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+  display: inline;
+}
